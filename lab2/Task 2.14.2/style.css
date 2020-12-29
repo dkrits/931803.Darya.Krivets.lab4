@@ -1,0 +1,16 @@
+
+.main{
+		background-color:aquamarine;
+		border: 2px solid forestgreen;
+}
+.line{
+	margin-top:30px;
+	background-color:#ffe5c0;
+	margin-bottom:30px;
+}
+.text{
+	margin-left:30px;
+}
+.gray{
+	background-color:lightgray;
+}

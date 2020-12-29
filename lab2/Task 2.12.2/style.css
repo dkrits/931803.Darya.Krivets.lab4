@@ -1,0 +1,21 @@
+
+.main{
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+}
+.m2{
+	background-color:lightgray;
+	width:80%;
+}
+.m1{
+	width:30%;
+	height:100px;
+	background-color:#ffe5c0;
+	margin-bottom:0px;
+}
+ul{
+	margin-right:60px;
+	margin-top:0px;
+	padding-top:25px;
+	
+}

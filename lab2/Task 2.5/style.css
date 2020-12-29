@@ -1,0 +1,18 @@
+*{
+	
+}
+.content{
+	background-color:green;
+	color:white;
+	width:600px;
+	margin:auto;
+	margin-bottom:20px;
+}
+.main{
+	width:600px;
+	margin:auto;
+	border:10px solid blue;
+	padding:40px;
+	background-color:blue;
+	color:white;
+}

@@ -1,0 +1,47 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+header{
+	background-color: #EAEAEA;
+	height:70px;
+}
+
+
+footer{
+	background-color: black;
+	text-align:center;
+	height:30px;
+	
+}
+
+.main{
+	display: flex;
+}
+
+.panel{
+	
+	width:1050px;
+	background-color:#C8FC98;
+	
+}
+
+.content{
+	
+}
+
+.t1{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.t2{
+	margin-left: 10px;
+}
+h1{
+	padding-left: 10px;
+	padding-top: 5px;
+}
+a{
+	color: #FFFF80;
+}

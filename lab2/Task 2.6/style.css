@@ -1,0 +1,16 @@
+*{
+	
+}
+.content{
+	width:600px;
+	margin:auto;
+	margin-bottom:20px;
+}
+.main{
+	width:500px;
+	margin:auto;
+	border:10px solid blue;
+	padding:40px;
+}
+.t{
+}

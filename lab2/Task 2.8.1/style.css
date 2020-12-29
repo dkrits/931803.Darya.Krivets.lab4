@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+}
+.main{
+	display: flex;
+	margin:2px;
+	padding:2px;
+}
+
+.right{
+	background-color: #EAEAEA;
+	height:180px;
+}
+
+.up{
+	background-color:#ffe5c0;
+	height:90px;
+	width:190px;
+}
+.down{
+	background-color:aquamarine;
+	height:90px;
+	width:190px;
+	
+}
+
+ul{
+	margin-left:40px;
+	padding-top:20px;
+	
+}
+.f{
+	background-color:forestgreen;
+	height:100px;
+	position:fixed;
+	bottom:0;
+	width:100%;
+}

@@ -1,0 +1,33 @@
+
+.main{
+	background-color:aqua;
+	display:flex;
+	margin-left:7px;
+	margin-right:7px;
+	margin-bottom:0;
+}
+.m1{
+	background-color:#ffe5c0;
+	margin:0;
+	height:100px;
+	width:300px;
+}
+.m2{
+	background-color:lightgray;
+	width:80%;
+}
+
+
+ul{
+	margin-right:60px;
+	margin-top:0px;
+	padding-top:25px;
+	
+}
+.f{
+	background-color:forestgreen;
+	height:100px;
+	position:fixed;
+	bottom:0;
+	width:100%;
+}
